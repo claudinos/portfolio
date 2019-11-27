@@ -3,7 +3,7 @@
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: rgb(221, 240, 135);
+  background-color: rgb(51, 92, 119);
 }
 
 .nav li {
@@ -147,7 +147,7 @@ h1, h2{
   left: 0;
   bottom: 0;
   width: 100%;
-  background-color:rgb(221, 240, 135);
+  background-color:rgb(51, 92, 119);
   color: rgb(8, 8, 8);
   text-align: center;
   padding:20px;
